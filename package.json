@@ -1,0 +1,13 @@
+{
+  "name": "velocity-notify-server",
+  "version": "1.0.0",
+  "main": "notify-server-example.js",
+  "scripts": {
+    "start": "node notify-server-example.js"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.49.1",
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}
